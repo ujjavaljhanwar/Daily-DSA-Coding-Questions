@@ -1,5 +1,5 @@
 // A C++ program to find a peak element
-#include <bits/stdc++.h>
+#include <iostream>
 using namespace std;
 
 // Find the peak element in the array
